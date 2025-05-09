@@ -2,7 +2,7 @@
 - 👀 I’m interested in code learn from all program 
 - 🌱 I’m currently learning Data Science and Python
 - 💞️ I’m looking to learn all possible
-- 📫 How to reach me: ricardo.operations@gmail.com
+- 📫 How to reach me: arsr.almacen@gmail.com
 - 😄 Pronouns: He
 - ⚡ From Rio de Janeiro | Brasil
 
