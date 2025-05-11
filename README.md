@@ -5,6 +5,7 @@
 - 📫 How to reach me: arsr.almacen@gmail.com
 - 😄 Pronouns: He
 - ⚡ From Rio de Janeiro | Brasil
+- Olá! Como vai você?
 
 <!---
 LontraXtreme/LontraXtreme is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
